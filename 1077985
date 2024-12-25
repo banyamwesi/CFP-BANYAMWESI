@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CFP Banyamwesi</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 50px;
+    }
+    img {
+      width: 300px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Inscrivez-vous aux formations du CFP Banyamwesi !</h1>
+  <p>Cliquez sur l'image pour accéder au formulaire :</p>
+  <a href="https://drive.google.com/file/d/1TeyK21Olm_VpQqIuBf0zcSW_iY1Y0Rnr/view" target="_blank">
+    <img src="https://imgur.com/qVjCLi8.jpg" alt="Cliquez ici pour vous inscrire">
+  </a>
+</body>
+</html>
